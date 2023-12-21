@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(-45deg, #23a6d5, #23d5ab);
+}
+header{
+    font-weight: bolder;
+    text-align: center;
+}
+.container{
+    height: 335px;
+    margin: auto;
+    width: 305px;
+  display: block;
+  margin-top: 100px;
+  box-shadow: 5px 5px 5px 5px ;
+  border-radius: 25px;
+}
+.profile{
+    margin-top: 23px;
+    width: 50px;
+    padding-left: 10px;
+}
+.profession{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-left: 10px;
+}
+.logo{
+   display: inline-block;
+   padding: 20px;
+}
+.svg{
+    height: 25px;
+}
